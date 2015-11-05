@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <book id="1">
+    <title> Effective Project Management, 7th Edition; Traditional, Agile, Extreme </title>
+    <author>Robert K. Wysocki</author>
+    <description>
+      Project management has undergone significant changes since the previous edition of this book. So, along with updates reflecting the PMBOK Guide, 5th edition, this Seventh Edition of Effective Project Management addresses some fundamental changes in the nature of a project. You will learn an approach to project management that recognizes the project environment and adapts accordingly. Rather than one-size-fits-all solutions, you will learn to think, review, analyze, and select the project management approach best suited to each individual project.
+
+      This book remains an effective text for trainers and educators as well as a practical how-to guide for project managers. Discover:
+
+      An in-depth understanding of the PMBOK process groups
+      How to scope, plan, launch, monitor, control, and close a TPM project
+      Techniques for dealing with the complex and uncertain PM landscape
+      A comparison of Linear, Incremental, Iterative, Adaptive, and Extreme PMLC models
+      Prevention and intervention strategies for distressed projects
+      Advice on organizing multiple team projects and managing a continuous process improvement program
+      Ways to establish an enterprise project portfolio management process
+      How to create a practical, project-based model of an enterprise
+    </description>
+  </book>
+
+  <book id="2">
+    <title> Effective Software Project Management  </title>
+    <author>Robert K. Wysocki</author>
+    <description>
+      Why another book on software project management?
+
+      For some time, the fields of project management, computer science, and software development have been growing rapidly and concurrently. Effective support for the enterprise demands the merging of these efforts into a coordinated discipline, one that incorporates best practices from both systems development and project management life cycles. Robert K. Wysocki creates that discipline in this book—a ready reference for professionals and consultants as well as a textbook for students of computer information systems and project management.
+
+      By their very nature, software projects defy a "one size fits all" approach. In these pages you will learn to apply best-practice principles while maintaining the flexibility that's essential for successful software development.
+    </description>
+  </book>
+</books>
